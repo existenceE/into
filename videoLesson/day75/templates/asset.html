@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>asset</title>
+</head>
+<body>
+
+
+<h1>资产列表</h1>
+<table border="1">
+    <thead id="table_th">
+    {#    class用-,id用下划线#}
+    <tr>
+{#        <th>ID</th>#}
+{#        <th>用户名</th>#}
+    </tr>
+
+    </thead>
+    <tbody id="table_tb">
+
+    </tbody>
+</table>
+<script src="/static/js/jquery-1.12.4.js"></script>
+
+<script>
+    $(function(){
+        init();
+    })
+    function init(){
+        $.ajax({
+            'url':'/web/asset-json.html',
+            type: 'GET',
+            dataType: "JSON",
+            success:function(result){
+                /*
+                        table_config = [
+            {
+                'q':'id',
+                'title':'ID',
+                'display':1
+            },
+            {
+                'q': 'id2',
+                'title': 'ID2',
+                'display': 1
+            },
+        ] */
+{#回调函数拿值#}
+
+                initHeader(result.table_config)
+                initBody(result.table_config, result.data_list)
+
+
+            }
+        })
+    }
+
+    {#初始化表头#}
+    function initHeader(table_config){
+                /*
+                        table_config = [
+            {
+                'q':'id',
+                'title':'ID',
+                'display':1
+            },
+            {
+                'q': 'id2',
+                'title': 'ID2',
+                'display': 1
+            },
+        ]
+*/
+                var tr = document.createElement('tr');
+                $.each(table_config,function(k, item){
+                    /*目标是生成：
+                        <tr>
+                            <th>ID</th>
+                            <th>用户名</th>
+                        </tr>
+                    */
+                    if(item.display){
+                        var th = document.createElement('th');
+                        th.innerHTML = item.title;
+                        $(tr).append(th);
+                    }
+                 })
+        $('#table_th').append(tr);
+
+    }
+    function initBody(table_config, data_list){
+        /**
+         * [
+         * {'cabinet_num':12B}, 'cabitnet_order':'1', 'id':1}
+         * {'cabinet_num':12c}, 'cabitnet_order':'1', 'id':1}
+         * ]
+         */
+        {#第一个循环表示有多少行，第二个循环表示 这一行要显示多少列#}
+        $.each(data_list, function (k, row) {
+            var tr = document.createElement('tr');
+            $.each(table_config, function(i, colconfig){
+                {#colconfig.q  为id#}
+                if (colconfig.display){
+                    {#colconfig.q#}
+                    var td = document.createElement('td')
+                    {#td.innerHTML = row[colconfig.q]; 不能这样简单粗暴显示了，进行转换#}
+                    {#row[colconfig.q]#}
+                    //colConfig.text
+                    //config.text.content=未格式化的字符串
+                    //config.text.kwargs={字典} 前端没有格式化的方法
+                    //我们自己创造。
+                    //"" =》 string
+                    //''.tr
+                    //String.prototype 类型的原型
+                    $(tr).append(td);
+                }
+
+            });
+
+
+            $('#table_tb').append(tr);
+
+        })
+
+    }
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1>班级列表</h1>
+    <div><a href="/add_class/">添加</a></div>
+
+
+    <table>
+        <thead>
+            <tr>
+                <td>id</td>
+                <td>title</td>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in classlist %}
+                <tr>
+                    <td>{{ row.id }}</td>
+                    <td>{{ row.title }}</td>
+                    <td><a href="/edit_class/?nid={{ row.id }}">编辑</a></td>
+                    <td>|</td>
+                    <td><a href="/del_class/?nid={{ row.id }}">删除</a></td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+</body>
+</html>

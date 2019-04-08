@@ -1,23 +1,164 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b62ba797-b846-4340-addc-44fcf4342fdc" name="Default" comment="" />
+    <list default="true" id="b62ba797-b846-4340-addc-44fcf4342fdc" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/proxypool/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxypool/schedule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxypool/setting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datasturcture/.idea/datasturcture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datasturcture/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datasturcture/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datasturcture/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datasturcture/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datasturcture/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datasturcture/python/recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datasturcture/python/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hisite/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hisite/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hisite/static/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hisite/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hisite/templates/login/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hisite/templates/login/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hisite/templates/login/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/.idea/videoLesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day129/1.redis集合操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day129/dbd/dbd/xxx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day31/qqclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day31/qqclient2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day31/qqserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day31/udpclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day31/udpserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day31/客户端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day31/客户端2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day31/服务端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day32/客户端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day32/服务端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day52/mysql_lesson.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day64/article.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day64/hostlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day64/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day64/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day64/userlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day64/动态网站/article.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day64/动态网站/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day64/动态网站/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day64/动态网站/userlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day64/静态网站/article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day64/静态网站/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day64/静态网站/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day94/p1_chouti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day94/p2_github.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day94/requests_details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day94/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day94/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day94/s3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day94/s4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day95/1.多线程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day95/2.多进程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day95/3.asyncio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day95/4.gevent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day95/5.Twisted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day95/6.Tornado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day95/7.自定义异步IO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day95/scrapy解析器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day95/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/1.twisted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96/dupefilters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96/md.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96/sd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_dupefilter/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_dupefilter/dupefilters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_dupefilter/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_dupefilter/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_dupefilter/news.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_dupefilter/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_dupefilter/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_dupefilter/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_dupefilter/spiders/chouti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_pipeline/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_pipeline/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_pipeline/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_pipeline/news.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_pipeline/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_pipeline/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_pipeline/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_pipeline/spiders/chouti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_中间件/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_中间件/commands/crawlall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_中间件/dupefilters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_中间件/ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_中间件/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_中间件/md.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_中间件/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_中间件/news.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_中间件/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_中间件/sd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_中间件/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_中间件/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_中间件/spiders/chouti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_代理/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_代理/dupefilters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_代理/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_代理/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_代理/news.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_代理/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_代理/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_代理/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_代理/spiders/chouti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_代理/spiders/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_深度限制/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_深度限制/dupefilters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_深度限制/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_深度限制/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_深度限制/news.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_深度限制/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_深度限制/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_深度限制/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/day96_深度限制/spiders/chouti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day96/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/day999/jiandan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/并发/多进程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/并发/多进程中的几个方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/并发/多进程之间的数据隔离问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/并发/多进程实现socket服务端的开发效果/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/并发/多进程实现socket服务端的开发效果/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/并发/开启多个子进程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../videoLesson/并发/开启多进程的第二种方式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/basistoknowofpython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/basistoknowofpython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasturcture/datasturcture.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasturcture/datasturcture.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasturcture/datasturcture.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasturcture/datasturcture.xcodeproj/project.xcworkspace/xcuserdata/mxn.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasturcture/datasturcture.xcodeproj/xcuserdata/mxn.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasturcture/datasturcture.xcodeproj/xcuserdata/mxn.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasturcture/python/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../datasturcture/python/.idea/python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasturcture/python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../datasturcture/python/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/basistoknowofpython$test.coverage" NAME="test Coverage Results" MODIFIED="1552445971940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="mythread.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mythread.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="255">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -31,53 +172,125 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>active</find>
+      <find>items</find>
+      <find>html</find>
+      <find>ttl</find>
+      <find>insert</find>
+      <find>find</find>
+      <find>md5</find>
+      <find>print</find>
+      <find>get_proxies</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/threading.py" />
-        <option value="$PROJECT_DIR$/mythread.py" />
+        <option value="$PROJECT_DIR$/crawler.py" />
+        <option value="$PROJECT_DIR$/proxytest.py" />
+        <option value="$PROJECT_DIR$/cookiestest.py" />
+        <option value="$PROJECT_DIR$/errortest.py" />
+        <option value="$PROJECT_DIR$/parsetest.py" />
+        <option value="$PROJECT_DIR$/robotparsertest.py" />
+        <option value="$PROJECT_DIR$/requeststest.py" />
+        <option value="$PROJECT_DIR$/aboutSSL.py" />
+        <option value="$PROJECT_DIR$/requestHighLevel.py" />
+        <option value="$PROJECT_DIR$/regex.py" />
+        <option value="$PROJECT_DIR$/maoyanTop100.py" />
+        <option value="$PROJECT_DIR$/result.txt" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/usinglxml.py" />
+        <option value="$PROJECT_DIR$/usingpyquery.py" />
+        <option value="$PROJECT_DIR$/storeTXT.py" />
+        <option value="$PROJECT_DIR$/storeJSON.py" />
+        <option value="$PROJECT_DIR$/storeCSV.py" />
+        <option value="$PROJECT_DIR$/connectMySql.py" />
+        <option value="$PROJECT_DIR$/storeMySQL.py" />
+        <option value="$PROJECT_DIR$/MongoDB.py" />
+        <option value="$PROJECT_DIR$/storeRedis.py" />
+        <option value="$PROJECT_DIR$/withAjax.py" />
+        <option value="$PROJECT_DIR$/toutiaoList.py" />
+        <option value="$PROJECT_DIR$/withSelenium.py" />
+        <option value="$PROJECT_DIR$/withSplash.py" />
+        <option value="$PROJECT_DIR$/taobaoList.py" />
+        <option value="$PROJECT_DIR$/ocrZhiwang.py" />
+        <option value="$PROJECT_DIR$/jiyan.py" />
+        <option value="$PROJECT_DIR$/chaojiying.py" />
+        <option value="$PROJECT_DIR$/setProxy.py" />
+        <option value="$PROJECT_DIR$/proxySet.py" />
+        <option value="$PROJECT_DIR$/utils.py" />
+        <option value="$PROJECT_DIR$/error.py" />
+        <option value="$PROJECT_DIR$/proxyPool.py" />
+        <option value="$PROJECT_DIR$/proxyPool/proxyPool.py" />
+        <option value="$PROJECT_DIR$/proxyPool/__init__.py" />
+        <option value="$PROJECT_DIR$/proxyPool/error.py" />
+        <option value="$PROJECT_DIR$/proxyPool/utils.py" />
+        <option value="$PROJECT_DIR$/proxyPool/db.py" />
+        <option value="$PROJECT_DIR$/proxyPool/crawler.py" />
+        <option value="$PROJECT_DIR$/proxyPool/getter.py" />
+        <option value="$PROJECT_DIR$/proxyPool/tester.py" />
+        <option value="$PROJECT_DIR$/proxypool/tester.py" />
+        <option value="$PROJECT_DIR$/proxypool/API.py" />
+        <option value="$PROJECT_DIR$/proxypool/schedule.py" />
+        <option value="$PROJECT_DIR$/proxypool/api.py" />
+        <option value="$PROJECT_DIR$/proxypool/setting.py" />
+        <option value="$PROJECT_DIR$/proxypool/db.py" />
+        <option value="$PROJECT_DIR$/usingBS4.py" />
+        <option value="$PROJECT_DIR$/test.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="942" />
+    <option name="y" value="34" />
+    <option name="width" value="699" />
+    <option name="height" value="928" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basistoknowofpython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basistoknowofpython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="basistoknowofpython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basistoknowofpython" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="FullScreen" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="basistoknowofpython" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="basistoknowofpython" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/proxyPool" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -91,8 +304,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.threading">
-    <configuration default="false" name="threading" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="ocrZhiwang" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="basistoknowofpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -103,88 +317,138 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="basistoknowofpython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mythread.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ocrZhiwang.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <method />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="proxySet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="basistoknowofpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="basistoknowofpython" />
-      <option name="SCRIPT_NAME" value="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proxySet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <method />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
+    <configuration name="taobaoList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="basistoknowofpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="basistoknowofpython" />
-      <method />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/taobaoList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="basistoknowofpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="withSplash" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basistoknowofpython" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/withSplash.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="basistoknowofpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="basistoknowofpython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
+      <method v="2" />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Python.threading" />
+    <list>
+      <item itemvalue="Python.withSplash" />
+      <item itemvalue="Python.taobaoList" />
+      <item itemvalue="Python.ocrZhiwang" />
+      <item itemvalue="Python.proxySet" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.threading" />
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.proxySet" />
+        <item itemvalue="Python.ocrZhiwang" />
+        <item itemvalue="Python.taobaoList" />
+        <item itemvalue="Python.withSplash" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -193,56 +457,443 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550476710513</updated>
+      <workItem from="1552013227961" duration="3653000" />
+      <workItem from="1552115541854" duration="12486000" />
+      <workItem from="1552982590758" duration="776000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16915000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="942" y="34" width="699" height="928" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3998006" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.948542" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.284689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32995495" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/maoyanTop100.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/weiboList.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/toutiaoList.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/threading.py">
+    <entry file="file://$PROJECT_DIR$/mythread.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="863" column="0" lean-forward="false" selection-start-line="863" selection-start-column="0" selection-end-line="863" selection-end-column="0" />
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buldopenertest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#94#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutSSL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requeststest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="57" column="82" selection-start-line="57" selection-start-column="82" selection-end-line="57" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/errortest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="e#429#442#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookiestest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxytest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#33#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requestHighLevel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="81" column="29" lean-forward="true" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maoyanTop100.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#15#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4039">
+          <caret line="75" column="145" selection-start-line="75" selection-start-column="145" selection-end-line="75" selection-end-column="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usingpyquery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="76" column="19" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/explore.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storeTXT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storeCSV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storeRedis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storeMySQL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="96" column="7" selection-start-line="96" selection-start-column="7" selection-end-line="96" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storeMongoDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="84" column="9" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weiboList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <element signature="e#96#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/withSelenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="134" column="30" lean-forward="true" selection-start-line="134" selection-start-column="30" selection-end-line="134" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobao.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobaoList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1212">
+          <caret line="99" column="10" selection-start-line="99" selection-start-column="10" selection-end-line="99" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/withSplash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.jpg" />
+    <entry file="file://$PROJECT_DIR$/ocrZhiwang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="e#1#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2027">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mythread.py">
+    <entry file="file://$PROJECT_DIR$/toutiaoList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="118">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chaojiying.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-77">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#38#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxySet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxypool/crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#7#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxypool/getter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxypool/tester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxypool/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxypool/schedule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding>
+            <element signature="e#102#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxypool/utils.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxypool/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxypool/error.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxypool/setting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxypool/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parsetest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="108" column="24" selection-start-line="108" selection-start-column="24" selection-end-line="108" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robotparsertest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storeJSON.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usinglxml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usingBS4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookies.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
         </state>
       </provider>
     </entry>

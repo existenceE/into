@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>添加班级</title>
+</head>
+<body>
+<h1>编辑班级</h1>
+<form method="post" action="/edit_class/?nid={{ result.id }}">
+{#    两个数据都在请求体里传过去{name:value}#}
+{#    <input style="display:none" name="id" value="{{ result.id }}" />#}
+    <p><input type="text" name="title" value="{{ result.title }}"/></p>
+    <input type="submit" value="提交">
+</form>
+</body>
+</html>

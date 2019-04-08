@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14fa66e6-f9cd-4c84-82fd-931fb5d843e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../basistoknowofpython/proxypool/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../basistoknowofpython/proxypool/schedule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../basistoknowofpython/proxypool/setting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../basistoknowofpython/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../datasturcture/.idea/datasturcture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../datasturcture/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../datasturcture/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../datasturcture/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../datasturcture/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../datasturcture/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../datasturcture/python/recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../datasturcture/python/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hisite/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hisite/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hisite/static/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hisite/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hisite/templates/login/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hisite/templates/login/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hisite/templates/login/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/videoLesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day129/1.redis集合操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day129/dbd/dbd/xxx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/qqclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/qqclient2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/qqserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/udpclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/udpserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/客户端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/客户端2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/服务端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/客户端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/服务端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day52/mysql_lesson.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day64/article.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day64/hostlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day64/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day64/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day64/userlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day64/动态网站/article.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day64/动态网站/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day64/动态网站/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day64/动态网站/userlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day64/静态网站/article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day64/静态网站/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day64/静态网站/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day73/bin/mxn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day73/conf/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day73/files/nid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day73/src/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day73/src/package.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day73/src/plugins/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day73/src/plugins/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day73/src/plugins/disk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day73/src/plugins/mem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day73/src/plugins/nic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day73/src/scrapy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day73/src/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day73/test/1.agent方式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day73/test/2.SSH类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day73/test/3.SaltStack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day75/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day75/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day75/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day75/static/js/jquery-1.12.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day75/templates/asset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day75/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day75/web/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day94/p1_chouti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day94/p2_github.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day94/requests_details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day94/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day94/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day94/s3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day94/s4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day95/1.多线程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day95/2.多进程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day95/3.asyncio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day95/4.gevent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day95/5.Twisted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day95/6.Tornado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day95/7.自定义异步IO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day95/scrapy解析器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day95/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/1.twisted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96/dupefilters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96/md.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96/sd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_dupefilter/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_dupefilter/dupefilters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_dupefilter/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_dupefilter/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_dupefilter/news.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_dupefilter/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_dupefilter/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_dupefilter/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_dupefilter/spiders/chouti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_pipeline/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_pipeline/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_pipeline/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_pipeline/news.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_pipeline/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_pipeline/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_pipeline/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_pipeline/spiders/chouti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_中间件/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_中间件/commands/crawlall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_中间件/dupefilters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_中间件/ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_中间件/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_中间件/md.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_中间件/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_中间件/news.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_中间件/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_中间件/sd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_中间件/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_中间件/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_中间件/spiders/chouti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_代理/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_代理/dupefilters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_代理/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_代理/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_代理/news.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_代理/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_代理/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_代理/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_代理/spiders/chouti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_代理/spiders/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_深度限制/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_深度限制/dupefilters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_深度限制/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_深度限制/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_深度限制/news.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_深度限制/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_深度限制/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_深度限制/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/day96_深度限制/spiders/chouti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day96/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day999/jiandan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/.idea/mysite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/sta/commons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app01/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/add_class.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/edit_class.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/test/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/test/client2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/test/client3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/test/client4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/test/client5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/test/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/ticket" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/事件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/信号量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/多线程实现socket/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/多线程实现socket/client1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/多线程实现socket/client2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/多线程实现socket/client3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/多线程实现socket/runall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/多线程实现socket/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/多进程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/多进程中的几个方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/多进程之间的数据隔离问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/多进程实现socket服务端的开发效果/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/多进程实现socket服务端的开发效果/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/开启多个子进程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/开启多进程的第二种方式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/生产者消费者.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/管道.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/管道实现生产者消费者.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/红绿灯事件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/进程之间的数据共享.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/进程池1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/进程池2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/进程池实现socket/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/进程池实现socket/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/进程池的回调函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/进程池的返回值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/锁.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../并发/队列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basistoknowofpython/.idea/basistoknowofpython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../basistoknowofpython/.idea/basistoknowofpython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basistoknowofpython/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../basistoknowofpython/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basistoknowofpython/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../basistoknowofpython/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../datasturcture/datasturcture.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../datasturcture/datasturcture.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../datasturcture/datasturcture.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../datasturcture/datasturcture.xcodeproj/project.xcworkspace/xcuserdata/mxn.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../datasturcture/datasturcture.xcodeproj/xcuserdata/mxn.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../datasturcture/datasturcture.xcodeproj/xcuserdata/mxn.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../datasturcture/python/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../datasturcture/python/.idea/python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../datasturcture/python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../datasturcture/python/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/s4day65/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1830">
+              <caret line="122" column="37" selection-start-line="122" selection-start-column="37" selection-end-line="122" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app01/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1125">
+              <caret line="77" column="9" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/edit_class.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/s4day65/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+              <folding>
+                <element signature="e#631#663#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/add_class.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/classes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>csrf</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/s4day65/settings.py" />
+        <option value="$PROJECT_DIR$/s4day65/static/add_class.html" />
+        <option value="$PROJECT_DIR$/templates/add_class.html" />
+        <option value="$PROJECT_DIR$/templates/classes.html" />
+        <option value="$PROJECT_DIR$/s4day65/urls.py" />
+        <option value="$PROJECT_DIR$/app01/views.py" />
+        <option value="$PROJECT_DIR$/templates/edit_class.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="801" />
+    <option name="y" value="90" />
+    <option name="width" value="1067" />
+    <option name="height" value="928" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="s4day65" type="b2602c69:ProjectViewProjectNode" />
+              <item name="s4day65" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="s4day65" type="b2602c69:ProjectViewProjectNode" />
+              <item name="s4day65" type="462c0819:PsiDirectoryNode" />
+              <item name="app01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="s4day65" type="b2602c69:ProjectViewProjectNode" />
+              <item name="s4day65" type="462c0819:PsiDirectoryNode" />
+              <item name="s4day65" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="s4day65" type="b2602c69:ProjectViewProjectNode" />
+              <item name="s4day65" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mysite_env/bin/python3.7" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="s4day65" type="Python.DjangoServer" factoryName="Django server">
+      <module name="s4day65" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="s4day65.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14fa66e6-f9cd-4c84-82fd-931fb5d843e3" name="Default Changelist" comment="" />
+      <created>1553217264623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553217264623</updated>
+      <workItem from="1553217267906" duration="4068000" />
+      <workItem from="1553558357607" duration="1156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5224000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14529915" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32943925" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/s4day65/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1830">
+          <caret line="122" column="37" selection-start-line="122" selection-start-column="37" selection-end-line="122" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="77" column="9" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s4day65/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding>
+            <element signature="e#631#663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/add_class.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/classes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/edit_class.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

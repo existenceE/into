@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e95c57e7-119c-4acc-91d6-0c72042dec99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../basistoknowofpython/proxypool/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basistoknowofpython/proxypool/schedule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basistoknowofpython/proxypool/setting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basistoknowofpython/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datasturcture/.idea/datasturcture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datasturcture/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datasturcture/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datasturcture/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datasturcture/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datasturcture/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datasturcture/python/recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datasturcture/python/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hisite/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hisite/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hisite/static/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hisite/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hisite/templates/login/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hisite/templates/login/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hisite/templates/login/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/videoLesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day129/1.redis集合操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day129/dbd/dbd/xxx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day31/qqclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day31/qqclient2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day31/qqserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day31/udpclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day31/udpserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day31/客户端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day31/客户端2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day31/服务端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day32/客户端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day32/服务端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day52/mysql_lesson.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day64/article.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day64/hostlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day64/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day64/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day64/userlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day64/动态网站/article.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day64/动态网站/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day64/动态网站/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day64/动态网站/userlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day64/静态网站/article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day64/静态网站/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day64/静态网站/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day73/bin/mxn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day73/conf/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day73/files/nid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day73/src/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day73/src/package.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day73/src/plugins/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day73/src/plugins/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day73/src/plugins/disk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day73/src/plugins/mem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day73/src/plugins/nic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day73/src/scrapy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day73/src/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day73/test/1.agent方式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day73/test/2.SSH类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day73/test/3.SaltStack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day94/p1_chouti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day94/p2_github.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day94/requests_details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day94/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day94/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day94/s3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day94/s4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day95/1.多线程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day95/2.多进程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day95/3.asyncio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day95/4.gevent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day95/5.Twisted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day95/6.Tornado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day95/7.自定义异步IO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day95/scrapy解析器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day95/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/1.twisted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96/dupefilters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96/md.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96/sd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_dupefilter/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_dupefilter/dupefilters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_dupefilter/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_dupefilter/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_dupefilter/news.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_dupefilter/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_dupefilter/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_dupefilter/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_dupefilter/spiders/chouti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_pipeline/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_pipeline/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_pipeline/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_pipeline/news.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_pipeline/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_pipeline/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_pipeline/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_pipeline/spiders/chouti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_中间件/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_中间件/commands/crawlall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_中间件/dupefilters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_中间件/ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_中间件/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_中间件/md.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_中间件/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_中间件/news.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_中间件/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_中间件/sd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_中间件/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_中间件/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_中间件/spiders/chouti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_代理/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_代理/dupefilters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_代理/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_代理/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_代理/news.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_代理/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_代理/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_代理/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_代理/spiders/chouti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_代理/spiders/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_深度限制/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_深度限制/dupefilters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_深度限制/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_深度限制/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_深度限制/news.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_深度限制/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_深度限制/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_深度限制/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/day96_深度限制/spiders/chouti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day96/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day999/jiandan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/.idea/mysite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/sta/commons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s4day65/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s4day65/app01/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s4day65/templates/add_class.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s4day65/templates/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s4day65/templates/edit_class.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wechat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/test/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/test/client2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/test/client3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/test/client4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/test/client5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/test/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/ticket" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/事件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/信号量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/多线程实现socket/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/多线程实现socket/client1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/多线程实现socket/client2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/多线程实现socket/client3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/多线程实现socket/runall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/多线程实现socket/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/多进程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/多进程中的几个方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/多进程之间的数据隔离问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/多进程实现socket服务端的开发效果/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/多进程实现socket服务端的开发效果/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/开启多个子进程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/开启多进程的第二种方式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/生产者消费者.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/管道.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/管道实现生产者消费者.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/红绿灯事件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/进程之间的数据共享.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/进程池1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/进程池2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/进程池实现socket/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/进程池实现socket/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/进程池的回调函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/进程池的返回值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/锁.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/队列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basistoknowofpython/.idea/basistoknowofpython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../basistoknowofpython/.idea/basistoknowofpython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basistoknowofpython/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basistoknowofpython/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basistoknowofpython/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basistoknowofpython/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasturcture/datasturcture.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasturcture/datasturcture.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasturcture/datasturcture.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasturcture/datasturcture.xcodeproj/project.xcworkspace/xcuserdata/mxn.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasturcture/datasturcture.xcodeproj/xcuserdata/mxn.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasturcture/datasturcture.xcodeproj/xcuserdata/mxn.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasturcture/python/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../datasturcture/python/.idea/python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasturcture/python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../datasturcture/python/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/videoLesson$1_redis.coverage" NAME="1.redis集合操作 Coverage Results" MODIFIED="1552961635572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day129" />
+    <SUITE FILE_PATH="coverage/videoLesson$qqclient.coverage" NAME="qqclient Coverage Results" MODIFIED="1553067571335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day31" />
+    <SUITE FILE_PATH="coverage/videoLesson$4_gevent.coverage" NAME="4.gevent Coverage Results" MODIFIED="1552460348960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day95" />
+    <SUITE FILE_PATH="coverage/videoLesson$server.coverage" NAME="server Coverage Results" MODIFIED="1554014454497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/并发/多线程实现socket" />
+    <SUITE FILE_PATH="coverage/videoLesson$runall.coverage" NAME="runall Coverage Results" MODIFIED="1554014576577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/并发/test" />
+    <SUITE FILE_PATH="coverage/videoLesson$__1_.coverage" NAME="客户端 (1) Coverage Results" MODIFIED="1552626896299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day32" />
+    <SUITE FILE_PATH="coverage/videoLesson$s1__1_.coverage" NAME="s1 (1) Coverage Results" MODIFIED="1553158606829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day64" />
+    <SUITE FILE_PATH="coverage/videoLesson$start.coverage" NAME="start Coverage Results" MODIFIED="1552909522298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day96" />
+    <SUITE FILE_PATH="coverage/videoLesson$2_SSH.coverage" NAME="2.SSH类 Coverage Results" MODIFIED="1554188601693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day73" />
+    <SUITE FILE_PATH="coverage/videoLesson$client__1_.coverage" NAME="client (1) Coverage Results" MODIFIED="1554013972940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/并发/test" />
+    <SUITE FILE_PATH="coverage/videoLesson$client3.coverage" NAME="client3 Coverage Results" MODIFIED="1553999229998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/并发/多线程实现socket" />
+    <SUITE FILE_PATH="coverage/videoLesson$.coverage" NAME="进程池的返回值 Coverage Results" MODIFIED="1553735805488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/并发" />
+    <SUITE FILE_PATH="coverage/videoLesson$s3.coverage" NAME="s3 Coverage Results" MODIFIED="1552298777860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoLesson$p1.coverage" NAME="p1 Coverage Results" MODIFIED="1552350960581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoLesson$Unittests_in_test.coverage" NAME="Unittests in test Coverage Results" MODIFIED="1554013802599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/并发/test" />
+    <SUITE FILE_PATH="coverage/videoLesson$jiandan.coverage" NAME="jiandan Coverage Results" MODIFIED="1552786933680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day999" />
+    <SUITE FILE_PATH="coverage/videoLesson$requests_details.coverage" NAME="requests_details Coverage Results" MODIFIED="1552306381298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoLesson$1_.coverage" NAME="1.多线程 Coverage Results" MODIFIED="1552389345883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day95" />
+    <SUITE FILE_PATH="coverage/videoLesson$manage.coverage" NAME="manage Coverage Results" MODIFIED="1553159954349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysite" />
+    <SUITE FILE_PATH="coverage/videoLesson$client5.coverage" NAME="client5 Coverage Results" MODIFIED="1553933085065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/并发/test" />
+    <SUITE FILE_PATH="coverage/videoLesson$qqserver.coverage" NAME="qqserver Coverage Results" MODIFIED="1553067396270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day31" />
+    <SUITE FILE_PATH="coverage/videoLesson$test.coverage" NAME="test Coverage Results" MODIFIED="1554075434187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/并发" />
+    <SUITE FILE_PATH="coverage/videoLesson$5_Twisted.coverage" NAME="5.Twisted Coverage Results" MODIFIED="1552460403451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day95" />
+    <SUITE FILE_PATH="coverage/videoLesson$client2.coverage" NAME="client2 Coverage Results" MODIFIED="1554000204496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/并发/多线程实现socket" />
+    <SUITE FILE_PATH="coverage/videoLesson$s1.coverage" NAME="s1 Coverage Results" MODIFIED="1553155485271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day64" />
+    <SUITE FILE_PATH="coverage/videoLesson$s4.coverage" NAME="s4 Coverage Results" MODIFIED="1552305897092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoLesson$qqclient2.coverage" NAME="qqclient2 Coverage Results" MODIFIED="1553067568300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day31" />
+    <SUITE FILE_PATH="coverage/videoLesson$7_IO.coverage" NAME="7.自定义异步IO Coverage Results" MODIFIED="1552707286856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day95" />
+    <SUITE FILE_PATH="coverage/videoLesson$client1.coverage" NAME="client1 Coverage Results" MODIFIED="1554000264092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/并发/多线程实现socket" />
+    <SUITE FILE_PATH="coverage/videoLesson$udpserver.coverage" NAME="udpserver Coverage Results" MODIFIED="1553066564445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day31" />
+    <SUITE FILE_PATH="coverage/videoLesson$p2_github.coverage" NAME="p2_github Coverage Results" MODIFIED="1552354732608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoLesson$s1__2_.coverage" NAME="s1 (2) Coverage Results" MODIFIED="1553158637377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day64" />
+    <SUITE FILE_PATH="coverage/videoLesson$1.coverage" NAME="进程池1 Coverage Results" MODIFIED="1553673444389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/并发" />
+    <SUITE FILE_PATH="coverage/videoLesson$server__1_.coverage" NAME="server (1) Coverage Results" MODIFIED="1554013937960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/并发/test" />
+    <SUITE FILE_PATH="coverage/videoLesson$chouti.coverage" NAME="chouti Coverage Results" MODIFIED="1552735826153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day96/day96/spiders" />
+    <SUITE FILE_PATH="coverage/videoLesson$client4.coverage" NAME="client4 Coverage Results" MODIFIED="1553933083276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/并发/test" />
+    <SUITE FILE_PATH="coverage/videoLesson$s2.coverage" NAME="s2 Coverage Results" MODIFIED="1552298568169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoLesson$1_twisted.coverage" NAME="1.twisted Coverage Results" MODIFIED="1552808139336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day96" />
+    <SUITE FILE_PATH="coverage/videoLesson$wechat.coverage" NAME="wechat Coverage Results" MODIFIED="1553858577829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoLesson$client.coverage" NAME="client Coverage Results" MODIFIED="1554017064901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/并发/多线程实现socket" />
+    <SUITE FILE_PATH="coverage/videoLesson$2.coverage" NAME="进程池2 Coverage Results" MODIFIED="1553674199409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/并发" />
+    <SUITE FILE_PATH="coverage/videoLesson$udpclient.coverage" NAME="udpclient Coverage Results" MODIFIED="1553066566768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day31" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day73/src/plugins/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/并发/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day73/bin/mxn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day73/src/client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Downloads/apps.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day73/files/nid">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day73/src/scrapy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+              <folding>
+                <element signature="e#91#110#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day73/src/script.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day96/day96_dupefilter/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day73/src/plugins/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cooki</find>
+      <find>depth</find>
+      <find>pipeli</find>
+      <find>contain</find>
+      <find>settings</find>
+      <find>return item</find>
+      <find>pipel</find>
+      <find>pr</find>
+      <find>DEPTH_PRIORITY</find>
+      <find>urlun</find>
+      <find>b64en</find>
+      <find>download</find>
+      <find>xpat</find>
+      <find>proxy</find>
+      <find>user</find>
+      <find>extensi</find>
+      <find>start</find>
+      <find>csrf</find>
+      <find>join</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/并发/锁.py" />
+        <option value="$PROJECT_DIR$/并发/ticket" />
+        <option value="$PROJECT_DIR$/并发/信号量.py" />
+        <option value="$PROJECT_DIR$/并发/事件.py" />
+        <option value="$PROJECT_DIR$/并发/红绿灯事件.py" />
+        <option value="$PROJECT_DIR$/并发/队列.py" />
+        <option value="$PROJECT_DIR$/并发/生产者消费者.py" />
+        <option value="$PROJECT_DIR$/并发/管道.py" />
+        <option value="$PROJECT_DIR$/并发/多进程实现socket服务端的开发效果/管道实现生产者消费者.py" />
+        <option value="$PROJECT_DIR$/并发/管道实现生产者消费者.py" />
+        <option value="$PROJECT_DIR$/并发/进程之间的数据共享.py" />
+        <option value="$PROJECT_DIR$/并发/进程池1.py" />
+        <option value="$PROJECT_DIR$/并发/进程池2.py" />
+        <option value="$PROJECT_DIR$/并发/进程池实现socket/server.py" />
+        <option value="$PROJECT_DIR$/并发/进程池实现socket/client.py" />
+        <option value="$PROJECT_DIR$/并发/进程池的回调函数.py" />
+        <option value="$PROJECT_DIR$/并发/进程池的返回值.py" />
+        <option value="$PROJECT_DIR$/并发/db.json" />
+        <option value="$PROJECT_DIR$/wechat.py" />
+        <option value="$PROJECT_DIR$/并发/db.txt" />
+        <option value="$PROJECT_DIR$/并发/test/server.py" />
+        <option value="$PROJECT_DIR$/并发/test/runall.py" />
+        <option value="$PROJECT_DIR$/并发/test/client.py" />
+        <option value="$PROJECT_DIR$/并发/test/client3.py" />
+        <option value="$PROJECT_DIR$/并发/test/client4.py" />
+        <option value="$PROJECT_DIR$/并发/test/client5.py" />
+        <option value="$PROJECT_DIR$/并发/多线程实现socket/client.py" />
+        <option value="$PROJECT_DIR$/并发/test/client2.py" />
+        <option value="$PROJECT_DIR$/并发/多线程实现socket/client1.py" />
+        <option value="$PROJECT_DIR$/并发/多线程实现socket/client3.py" />
+        <option value="$PROJECT_DIR$/并发/多线程实现socket/runall.py" />
+        <option value="$PROJECT_DIR$/并发/多线程实现socket/client2.py" />
+        <option value="$PROJECT_DIR$/并发/多线程实现socket/server.py" />
+        <option value="$PROJECT_DIR$/day73/1.agent方式.py" />
+        <option value="$PROJECT_DIR$/day73/2.SSH类.py" />
+        <option value="$PROJECT_DIR$/day73/3.SaltStack.py" />
+        <option value="$PROJECT_DIR$/day73/test/1.agent方式.py" />
+        <option value="$PROJECT_DIR$/day73/test/3.SaltStack.py" />
+        <option value="$PROJECT_DIR$/day73/src/scrapy.py" />
+        <option value="$PROJECT_DIR$/day73/src/plugins/base.py" />
+        <option value="$PROJECT_DIR$/day73/src/plugins/disk.py" />
+        <option value="$PROJECT_DIR$/day73/src/plugins/mem.py" />
+        <option value="$PROJECT_DIR$/day73/src/plugins/nic.py" />
+        <option value="$PROJECT_DIR$/day73/conf/settings.py" />
+        <option value="$PROJECT_DIR$/day73/src/package.py" />
+        <option value="$PROJECT_DIR$/day73/src/plugins/__init__.py" />
+        <option value="$PROJECT_DIR$/day73/src/plugins/client.py" />
+        <option value="$PROJECT_DIR$/day73/src/script.py" />
+        <option value="$PROJECT_DIR$/day73/bin/mxn.py" />
+        <option value="$PROJECT_DIR$/并发/test.py" />
+        <option value="$PROJECT_DIR$/day73/src/client.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="817" />
+    <option name="y" value="27" />
+    <option name="width" value="863" />
+    <option name="height" value="928" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="videoLesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="videoLesson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="videoLesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="videoLesson" type="462c0819:PsiDirectoryNode" />
+              <item name="day73" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="videoLesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="videoLesson" type="462c0819:PsiDirectoryNode" />
+              <item name="day73" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="videoLesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="videoLesson" type="462c0819:PsiDirectoryNode" />
+              <item name="day73" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="videoLesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="videoLesson" type="462c0819:PsiDirectoryNode" />
+              <item name="day73" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ToolWindowFind.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/并发/多线程实现socket" />
+      <recent name="$PROJECT_DIR$/并发/test" />
+      <recent name="$PROJECT_DIR$/day64" />
+      <recent name="$PROJECT_DIR$/day31" />
+      <recent name="$PROJECT_DIR$/day96" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day73/src" />
+      <recent name="$PROJECT_DIR$/day73/test" />
+      <recent name="$PROJECT_DIR$/并发/多线程实现socket" />
+      <recent name="$PROJECT_DIR$/并发" />
+      <recent name="$PROJECT_DIR$/day64/动态网站" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.2.SSH类">
+    <configuration name="2.SSH类" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="videoLesson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day73" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day73/test/2.SSH类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="videoLesson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/并发/多线程实现socket" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/并发/多线程实现socket/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runall" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="videoLesson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/并发/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/并发/多线程实现socket/runall.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="videoLesson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/并发/多线程实现socket" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/并发/多线程实现socket/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="videoLesson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/并发" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/并发/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2.SSH类" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.runall" />
+        <item itemvalue="Python.server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e95c57e7-119c-4acc-91d6-0c72042dec99" name="Default Changelist" comment="" />
+      <created>1552282151818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552282151818</updated>
+      <workItem from="1552282154892" duration="49942000" />
+      <workItem from="1552786844654" duration="53064000" />
+      <workItem from="1553653919343" duration="13090000" />
+      <workItem from="1553853798217" duration="4912000" />
+      <workItem from="1553926930714" duration="29925000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test - 2019.03.31 at 14h 30m 03s.xml">
+      <configuration name="Unittests in test" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="150933000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="817" y="27" width="863" height="928" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21315469" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" weight="0.32959184" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" auto_hide="true" id="Find" order="1" weight="0.32857144" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3409091" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3923445" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32942554" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32959184" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21315469" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="0" weight="0.32959184" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" auto_hide="true" id="Find" order="2" weight="0.32857144" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.3409091" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3923445" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32942554" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32959184" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day94/requests_details.py</url>
+          <line>117</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day95/1.多线程.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day95/test.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day96/1.twisted.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day129/dbd/dbd/xxx.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/并发/进程池2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/进程池的回调函数.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/进程池的返回值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/multiprocessing/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/多进程之间的数据隔离问题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="e#2#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/db.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+          <folding>
+            <element signature="e#25#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/多进程中的几个方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/多进程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/队列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/进程池实现socket/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/multiprocessing/pool.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/db.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/多进程实现socket服务端的开发效果/client.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/进程池实现socket/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/多进程实现socket服务端的开发效果/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/socket.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="543" column="8" selection-start-line="543" selection-start-column="8" selection-end-line="543" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="1229" selection-start-line="1229" selection-end-line="1229" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/test/client3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/test/client4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/test/client5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/test/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/test/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/test/client2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/多线程实现socket/client1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/多线程实现socket/client3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/多线程实现socket/client2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/多线程实现socket/runall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/多线程实现socket/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/多线程实现socket/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/进程之间的数据共享.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/paramiko/hostkeys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/paramiko/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73/test/1.agent方式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#21#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73/test/2.SSH类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73/test/3.SaltStack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73/src/plugins/nic.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73/conf/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73/src/plugins/disk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73/src/plugins/mem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73/src/package.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="20" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73/src/plugins/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day96/day96_dupefilter/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73/src/scrapy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <element signature="e#91#110#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73/bin/mxn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73/src/script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73/src/plugins/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73/files/nid">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73/src/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/apps.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
